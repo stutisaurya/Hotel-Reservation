@@ -14,6 +14,7 @@ public class HotelReservationTest {
 	}
 
 	@Test
+
 	public void shouldPrintWelcomeMessage() {
 		// Create object
 		HotelReservation hotelReservation = new HotelReservation();
